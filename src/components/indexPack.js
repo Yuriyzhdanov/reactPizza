@@ -1,7 +1,6 @@
-import { Categories } from "./Categories";
-import { Header } from "./Header";
-import { SortPopup } from "./SortPopup";
-import  Home  from "./pages/Home";
+import Categories from "./Categories";
+import Header from "./Header";
+import Home from "./pages/Home";
+import SortPopup from "./SortPopup";
 
-
-export { Header, Categories, SortPopup, Home};
+export { Header, Categories, SortPopup, Home };
